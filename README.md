@@ -9,7 +9,7 @@ Currently, I am writing my Master's Thesis at **Mercedes-Benz AG**, focusing on 
 
 ### Interests & Hobbies
 - **AI & Tech:** LLMs, Autonomous Coding Agents, Tech News
-- **Creative & Fun:** Piano | Anime | Traveling | Gaming
+- **Creative & Fun:** Piano | Anime | Traveling | Gaming | Concerts
 
 ### Connect with me
 -  [LinkedIn](https://www.linkedin.com/in/frank-hachenberger-94486b297/)
