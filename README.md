@@ -11,6 +11,8 @@ Currently, I am writing my Master's Thesis at **Mercedes-Benz AG**, focusing on 
 - **AI & Tech:** LLMs, Autonomous Coding Agents, Tech News
 - **Creative & Fun:** Piano | Anime | Traveling | Gaming
 
+### Connect with me
+-  [LinkedIn](https://www.linkedin.com/in/frank-hachenberger-94486b297/)
 <!--
 **Frank10969/Frank10969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
