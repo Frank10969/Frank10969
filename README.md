@@ -4,8 +4,8 @@ Currently, I am writing my Master's Thesis at **Mercedes-Benz AG**, focusing on 
 
 - **Current Focus:** Enhancing quality control in production lines by classifying defects using multivariate Time Series Classification (TSC).
 - **Always Learning:** Staying ahead of the curve with LLMs, Coding Agents, and AI-driven productivity.
-- **Ask me about:** Time Series Analysis, Deep Learning in manufacturing, and current Tech News.
-- **Second Brain:** Passionate about personal knowledge management and keeping my studies/work organized using **Obsidian**.
+- **Ask me about:** Time Series Analysis and AI in manufacturing.
+
 
 ### Interests & Hobbies
 - **AI & Tech:** LLMs, Autonomous Coding Agents, Tech News
